@@ -1,0 +1,29 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+#blue-p {
+    color: blue;
+}
+
+header {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+#headings {
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+}
+
+#centered-main-content, footer {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+
+#meetings {
+    margin-right: 10px;
+}
